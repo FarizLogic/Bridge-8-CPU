@@ -140,14 +140,17 @@ java -jar Bridge8Simulator.jar
 
 ---
 
-## Credits
 
-© 2026 **Ahmad Fariz Ali**  
-  
+## Author
+
+© 2026 Ahmad Fariz Ali
+
 Faculty of Computing, Universiti Teknologi Malaysia (UTM)
 
 Developed for:
 - SECR1033 / SCSR1033
 - Computer Architecture and Organization
 
-Built with Java Swing  
+Built with Java Swing
+
+
