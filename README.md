@@ -93,6 +93,8 @@ It bridges:
 
 ## Pedagogical Mapping to Stallings
 
+Stallings, William. "Computer Organization and Architecture : Designing for performance" (2016) — Tenth edition.
+
 | Stallings Concept | Bridge-8 Manifestation |
 |---|---|
 | Fetch–Decode–Execute cycle | T1–T3 fetch, T4+ execute (visible with RTL on) |
@@ -141,5 +143,11 @@ java -jar Bridge8Simulator.jar
 ## Credits
 
 © 2026 **Ahmad Fariz Ali**  
-Faculty of Computing, Universiti Teknologi Malaysia (UTM)  
-Developed for Computer Architecture teaching · Built with Java Swing
+  
+Faculty of Computing, Universiti Teknologi Malaysia (UTM)
+
+Developed for:
+- SECR1033 / SCSR1033
+- Computer Architecture and Organization
+
+Built with Java Swing  
