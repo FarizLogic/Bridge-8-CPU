@@ -11,7 +11,7 @@
 
 ## What is Bridge-8?
 
-Bridge-8 is an **8-bit accumulator-based educational CPU simulator** written in Java Swing. It is designed for university-level teaching in Computer Architecture and Digital Logic, mapping directly to concepts from Stallings' *Computer Organization and Architecture*.
+Bridge-8 is an **8-bit accumulator-based educational CPU simulator** written in Java Swing. It is designed for university-level teaching in Computer Architecture and Digital Logic, mapping directly to concepts from Stallings' *Computer Organization and Architecture* textbook.
 
 It bridges:
 - **Hardware concepts** — register transfers, datapaths, instruction cycles, condition flags
