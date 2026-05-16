@@ -66,10 +66,12 @@ It bridges:
 - **Status badge** — colour-coded indicator: `READY` / `ASSEMBLED` / `RUNNING` / `WAITING` / `HALTED` / `ERROR`
 
 ### Programming Environment
-- Two-pass assembler with labels, comments, and hex/decimal literals
+- Two-pass assembler with labels, comments, and hexadecimal/decimal literals
 - `DAT` directive for declaring data bytes
 - 7 built-in example programs, including an **Indirect Addressing** demonstrator
-- `STEP` / `RUN` / `RESET` / `CLEAR` controls with adjustable speed slider
+- `ASSEMBLE` /`STEP` / `RUN` / `RESET` controls with adjustable animation speed slider for debugging machine code
+- `CLEAR` control to clear the code editor, allowing users to write their own assembly code 
+- `RTL` control for verbose micro-operation tracing
 - Smart auto-scrolling trace with 2000-entry history buffer
 
 ### I/O Console
