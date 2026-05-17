@@ -157,7 +157,7 @@ Built with Java Swing
 
 ## License
 
-Bridge-8 Educational CPU Simulator  
+Bridge-8
 Copyright (c) 2026 Ahmad Fariz  
 All Rights Reserved.
 
