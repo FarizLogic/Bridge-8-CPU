@@ -5,7 +5,7 @@
 [![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)](https://www.java.com)
 [![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue)](https://docs.oracle.com/javase/tutorial/uiswing/)
 [![ISA](https://img.shields.io/badge/ISA-v1.2-green)]()
-[![License](https://img.shields.io/badge/License-Educational-lightgrey)]()
+![License](https://img.shields.io/badge/License-Research%2FEducational_Use_Only-blue)
 
 ---
 
