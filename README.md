@@ -167,7 +167,7 @@ Bridge-8 sits within the educational accumulator-CPU tradition and acknowledges 
 - **From MARIE** (Null & Lobur, 2003) — the indirect-addressing scheme (`LOADI`/`STOREI` with the `I` suffix), the explicit named `INDIRECT` phase, the programmed-I/O philosophy, and the simulator presentation format with labelled phases.
 - **From Mano's Basic Computer** (Mano, 1976) — the MAR/MDR datapath register convention and the use of a status flag (Mano's `E`) for arithmetic conditions.
 
-**Independent design choices** in Bridge-8 — not inherited from any single predecessor:
+**Independent design choices** in Bridge-8 that are not inherited from any single predecessor:
 
 - **Flag-based conditional branching** (`JZ`, `JC` testing a Z/C status register) rather than MARIE's `Skipcond` AC-comparison primitive. This convention is closer to real microprocessors (6502, 8080, Z80, x86) and improves transfer of learning to industry ISAs.
 - **Full bitwise logic family** (`AND`, `OR`, `NOT`) absent from both MARIE and SAP-1, enabling bitmask exercises that connect Digital Logic gate concepts to assembly programming.
