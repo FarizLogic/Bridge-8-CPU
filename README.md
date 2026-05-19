@@ -141,7 +141,7 @@ Bridge-8 v1.2 implements the textbook four-phase cycle from Stallings:
                                                instructions
 ```
 
-The `INDIRECT` phase was added in v1.2 to make indirect-addressing resolution visible as its own pedagogical step, rather than hiding it inside `EXECUTE`. This matches the four-phase cycle Stallings describes in Chapter 12.
+The `INDIRECT` phase was added in v1.2 to make indirect-addressing resolution visible as its own pedagogical step, rather than hiding it inside `EXECUTE`. This matches the four-phase cycle Stallings describes in Chapter 14.
 
 The **interrupt cycle** is deliberately omitted (see *Design choices* below).
 
