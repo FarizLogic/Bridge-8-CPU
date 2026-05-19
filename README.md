@@ -248,6 +248,15 @@ Bridge-8 is intended as a **first-exposure CPU** for students simultaneously lea
 
 The simulator is designed to be used alongside a textbook (Stallings) and complements — rather than replaces — hands-on digital-logic experiments with gate-level chips (7400-series, breadboards) and assembly-language programming on real or near-real ISAs.
 
+  ## Repository Scope
+
+This public repository is intended to share:
+- the executable release of the Bridge-8 CPU Simulator,
+- basic documentation of the Bridge-8 CPU architecture,
+- usage notes for students and educators.
+
+The simulator source code is not included in this public repository.
+  
 ## Citation
 
 If you use Bridge-8 in teaching or research, please cite:
