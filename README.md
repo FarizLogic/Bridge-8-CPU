@@ -261,7 +261,7 @@ The simulator source code is not included in this public repository.
 
 If you use Bridge-8 in teaching or research, please cite:
 
-> Ahmad Fariz Ali, *Bridge-8 CPU: An 8-bit Accumulator Educational CPU Simulator*, Faculty of Computing, Universiti Teknologi Malaysia, 2026. Available at: https://github.com/FarizLogic/Bridge-8-CPU
+> Ahmad Fariz Ali. (2026). *Bridge-8 CPU: An 8-bit accumulator educational CPU simulator* [Computer software]. Faculty of Computing, Universiti Teknologi Malaysia. Available at: https://github.com/FarizLogic/Bridge-8-CPU
 
 ## License
 
